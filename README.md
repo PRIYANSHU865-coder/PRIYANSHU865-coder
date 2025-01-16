@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU KUMAR</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Specialist | Python Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer | Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu865-coder&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu865-coder" /> </p>
 
